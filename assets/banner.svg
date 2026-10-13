@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160" width="800" height="160" role="img" aria-label="Nicolás Weht, Data Engineer">
+  <defs>
+    <path id="heart" d="M3 0h6v3H3z M12 0h6v3h-6z M0 3h21v6H0z M3 9h15v3H3z M6 12h9v3H6z M9 15h3v3H9z"/>
+  </defs>
+  <rect width="800" height="160" fill="#14182b"/>
+  <rect x="0" y="150" width="800" height="10" fill="#e8c15a"/>
+
+  <text x="40" y="78" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#f4f1de">Nicolás Weht</text>
+  <text x="42" y="112" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="20" fill="#9db0e8" letter-spacing="1">Data Engineer</text>
+
+  <g fill="#e63946" transform="translate(692 38)">
+    <use href="#heart"/>
+    <use href="#heart" x="28"/>
+    <use href="#heart" x="56"/>
+  </g>
+</svg>
